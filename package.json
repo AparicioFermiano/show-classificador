@@ -1,0 +1,25 @@
+{
+  "name": "show-classificador",
+  "version": "1.0.0",
+  "description": "Micro serviço criado para classificar as idades dos clientes que tem prioridade na compra do ingresso, proposto pela Unidade Curricular de Sistemas Integrados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AparicioFermiano/show-classificador.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AparicioFermiano/show-classificador/issues"
+  },
+  "homepage": "https://github.com/AparicioFermiano/show-classificador#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
