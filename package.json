@@ -4,11 +4,13 @@
   "description": "Micro serviço criado para classificar as idades dos clientes que tem prioridade na compra do ingresso, proposto pela Unidade Curricular de Sistemas Integrados",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js --exec node"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AparicioFermiano/show-classificador.git"
+    
   },
   "keywords": [],
   "author": "",
